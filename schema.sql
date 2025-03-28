@@ -1,0 +1,1 @@
+CREATE DATABASE spinlog_db;

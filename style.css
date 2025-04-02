@@ -4,6 +4,11 @@ h1 {
 
  /*FOR SignIn.html*/
 /* Background and page layout */
+.logo {
+    height: 30px;
+    width: auto;
+  }
+  
 body {
     background-color: #201f1f;
     color: #a19c9c;

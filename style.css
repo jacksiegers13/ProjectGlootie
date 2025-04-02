@@ -1,3 +1,80 @@
 h1 {
     color: blue;
 }
+
+ /*FOR SignIn.html*/
+/* Background and page layout */
+body {
+    background-color: #201f1f;
+    color: #a19c9c;
+    height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  /* Navbar brand accent */
+  .text-pink {
+    color: #ff85c1 !important;
+  }
+
+  .nav-link {
+    color: #e2d2d2;
+  }
+  
+  /* Card styling */
+  .custom-card {
+    background-color: #1f1f1f;
+    border: 1px solid #2c2c2c;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+  }
+  
+  /* Input styling */
+  .form-control {
+    background-color: #5e5e5e;
+    color: #fff;
+    border: 1px solid #444;
+    border-radius: 0.3rem;
+  }
+  
+  .form-control:focus {
+    border-color: #ff85c1;
+    box-shadow: 0 0 0 0.2rem rgba(255, 133, 193, 0.25);
+    background-color: #2c2c2c;
+    color: #fff;
+  }
+  
+  /* Button styling */
+  .btn-custom {
+    background: linear-gradient(to right, #ff85c1, #85caff);
+    color: #1f1f1f;
+    border: none;
+    font-weight: bold;
+    border-radius: 0.3rem;
+  }
+  
+  .btn-custom:hover {
+    filter: brightness(1.1);
+  }
+  
+  /* Link styling */
+  a {
+    color: #85caff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .mb-4{
+    color:#e2d2d2;
+  }
+  
+  .form-label{
+    color:#e2d2d2;
+  }
+
+  .mt-3{
+    color:#e2d2d2;
+  }
